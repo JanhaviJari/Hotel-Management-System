@@ -394,7 +394,7 @@ https://github.com/JanhaviJari
 
 LinkedIn
 
-*(Add your LinkedIn Profile)*
+https://www.linkedin.com/in/janhavi-jari-219a2a290?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
