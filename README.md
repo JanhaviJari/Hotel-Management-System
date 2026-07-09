@@ -324,7 +324,7 @@ http://localhost:8080/HotelManagementSystemJSP
 
 ## 🔐 Login Page
 
-![Login](ScreenShots/login Page.png)
+![Login](ScreenShots/Login Page.png)
 
 ---
 
