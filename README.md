@@ -322,18 +322,57 @@ http://localhost:8080/HotelManagementSystemJSP
 
 # 📷 Application Screenshots
 
-| Module | Screenshot |
-|---------|------------|
-| Login | Add Screenshot |
-| Dashboard | Add Screenshot |
-| Customer Management | Add Screenshot |
-| Room Management | Add Screenshot |
-| Booking Management | Add Screenshot |
-| Check-In | Add Screenshot |
-| Check-Out | Add Screenshot |
-| Billing | Add Screenshot |
-| Reports | Add Screenshot |
+## 🔐 Login Page
 
+![Login](screenshots/login Page.png)
+
+---
+
+## 📊 Dashboard
+
+![Dashboard](screenshots/DashBoard.png)
+
+---
+
+## 👥 Customer Management
+
+![Customer](screenshots/Customer Management.png)
+
+---
+
+## 🛏 Room Management
+
+![Room](screenshots/Room Details.png)
+
+---
+
+## 📅 Booking Management
+
+![Booking](screenshots/Booking Details.png)
+
+---
+
+## 🚪 Check-In
+
+![Check-In](screenshots/Check In.png)
+
+---
+
+## 🚪 Check-Out
+
+![Check-Out](screenshots/Check Out.png)
+
+---
+
+## 💳 Billing
+
+![Billing](screenshots/Bill.png)
+
+---
+
+## 📈 Reports
+
+![Reports](screenshots/Reports.png)
 ---
 
 # 🚀 Future Enhancements
